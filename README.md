@@ -1,6 +1,6 @@
 # Week 0 – Scratch 
 
- Part of **CS50x 2024 – Introduction to Computer Science by Harvard University**
+ Part of **CS50x 2025 – Introduction to Computer Science by Harvard University**
 
 ##  Overview
 This week introduced the fundamentals of programming using Scratch, a visual programming language. It focused on building logic, sequencing, loops, and event-driven programming—all without writing a single line of code.
